@@ -3,15 +3,9 @@
 <img width="477" alt="WLlogo" src="https://github.com/Ronak3107/Wander-Lodge/assets/153888909/0ab694be-30d9-4594-8b35-7c41a5abdf70">
 
 
-Wander Lodge is a full-stack web application for Home Rental services. It allows users to discover, book, and host unique accommodations around the world. Whether you’re planning a relaxing getaway or looking to earn extra income by hosting guests, Wander Lodge has you covered.
-
-<img width="946" alt="Screenshot 2024-03-28 211646" src="https://github.com/Ronak3107/Wander-Lodge/assets/153888909/9299e703-d15d-4c3f-bc66-434c1dd5b04e">
+SolJour is a full-stack web application for Home Rental services. It allows users to discover, book, and host unique accommodations around the world. Whether you’re planning a relaxing getaway or looking to earn extra income by hosting guests, Wander Lodge has you covered.
 
 
-<img width="849" alt="Screenshot 2024-03-28 211712" src="https://github.com/Ronak3107/Wander-Lodge/assets/153888909/38599bc0-fca6-45b1-ae18-7b508eb3f642">
-
-
-<img width="861" alt="Screenshot 2024-03-28 211729" src="https://github.com/Ronak3107/Wander-Lodge/assets/153888909/1edaa31f-394c-4a22-a1cd-2df7585c7556">
 
 
 ## Features
@@ -61,9 +55,7 @@ Wander Lodge is a full-stack web application for Home Rental services. It allows
 
 Clone the Repository:
 
-```bash
-   git clone https://github.com/Ronak3107/Wander-Lodge.git
-```
+
 
 Install Dependencies:
 
